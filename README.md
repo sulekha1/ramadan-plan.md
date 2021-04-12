@@ -1,31 +1,31 @@
-# ramadan-plan.md
+
 
 <html lang="en">
 <head>
-<title>RAMADAN PLANNER </title>
-<<link rel="stylesheet" href="stylesheet.css.css"type="text/css"/>
+<title> RAMADAN PLANNER </title>
+<link rel="stylesheet" href="stylesheet.css.css"type="text/css"/>
 </head>
 <body>
     <HEADER>
 <h1>
-    RAMADAN HABIT IDEAS
+    RAMADAN Planner
 </h1>
 <div>
 <p>  
 RAMADAN HABIT IDEAS
 </p>
 </div>
-<table style="width: 100%; margin-top: 10px; font-size: 0.8em;" border="1px">
+<table border="1">
 
 <thead>
 
-    </tr>
+    <tr>
     <TH>
 HEALTH
     </TH>
     <TH>  SALAH</TH>
 <th> KNOWLEDGE</Th>
-       <TH>QUR`AN</TH><TH>  MORE SUNNAH </TH>
+       <TH>QUR`AN</TH> <TH>  MORE SUNNAH </TH>
 <TH> RELATIONSHIP</TH>
 
 <TH> UMMAH</TH>
@@ -40,9 +40,7 @@ HEALTH
             EXERCISE
         </TD> <TD>SUNNAH SALAH
             
-        </TD> <TD>READING
-            
-        </TD>
+        </TD> <TD>READINg </TD>
         
         <TD>LISTENING
             
