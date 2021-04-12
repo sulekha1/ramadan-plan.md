@@ -58,31 +58,7 @@ HEALTH
         
     </TR>
 </tbody>
-<tfoot>
-    <tr>
-        <TD>
-            EXERCISE
-        </TD> <TD>SUNNAH SALAH
-            
-        </TD> <TD>READING
-            
-        </TD>
-        
-        <TD>LISTENING
-            
-        </TD> <TD>WAKING UP FOR SUHOOR
-            
-        </TD> <TD>FAMILY TIME
-        
-        </TD> <TD>GIVING SADAQA
-            
-        </TD>
-        <TD>
-            PLANTING A TREE
-        </TD> <TD>NO GOSSIPING/JUDGING</TD>
-    
-    </tr>
-</tfoot>
+
 
 </HEADER>
 </table>
